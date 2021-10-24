@@ -10,7 +10,7 @@ body {
     position:absolute;
 }
 .nav>li>a:hover, .nav>li>a:focus, .nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
-    background:#fff;
+    background:#ffe;
 }
 .dropdown {
     background:#fff;
